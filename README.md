@@ -6,3 +6,8 @@ How to connect to S3 bucket of AWS in Golang. Following is link used to inspire 
 https://youtu.be/R6W1ay4jYKk
 
 https://github.com/RekhuGopal/PythonHacks/tree/main/AWS_GO_Hacks_S3
+
+important command to download AWS packages. 
+
+go get -u github.com/aws/aws-sdk-go/...
+
